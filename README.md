@@ -1,6 +1,6 @@
 # Eye-Exercise
 #### Description:
-This was a week 8 exercise. The eyes follow the cursor around the screen.
+This project was a week 8 exercise. Using HTML, CSS, and Javascript, the eyes follow the cursor around the screen.
  
 #### Installation:
  
@@ -15,7 +15,7 @@ Just for fun
 It doesn't really do enough to need support yet.
  
 #### Roadmap: 
-My plan is to add eyelashes.
+My plan is to make the eyes blick when the mouse is clicked and add eyelashes.
  
 #### License information:
  
