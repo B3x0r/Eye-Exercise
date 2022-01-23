@@ -1,6 +1,7 @@
 # Eye-Exercise
 #### Description:
 This project was a week 8 exercise. Using HTML, CSS, and Javascript, the eyes follow the cursor around the screen.
+<img src= "eye.jpg" width='300'/>
  
 #### Installation:
  
